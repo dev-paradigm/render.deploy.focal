@@ -74,7 +74,7 @@
     "webpack-cli": "4.7.0"
   },
   "dependencies": {
-    "core-js": "3.12.1",
+    "core-js": "3.18.2",
     "marked": ">=2.0.1",
     "mattermost-redux": "5.33.1",
     "react-intl": "^5.13.5",
