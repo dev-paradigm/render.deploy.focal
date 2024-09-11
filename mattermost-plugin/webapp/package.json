@@ -78,7 +78,7 @@
     "marked": ">=2.0.1",
     "mattermost-redux": "5.33.1",
     "react-intl": "^5.13.5",
-    "react-router-dom": "5.2.0"
+    "react-router-dom": "6.0.0"
   },
   "jest": {
     "snapshotSerializers": [
